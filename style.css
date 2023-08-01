@@ -1,0 +1,62 @@
+.container{
+	width:25%;
+	padding:8px 10px;
+	border:light gray;
+	box-shadow:0px 0px 10px;
+	background-color:light gray;
+	border-radius:10px;
+
+	
+}
+.row{
+   display:flex;
+   flex-wrap:wrap;
+   text-align:center;
+
+}
+.col{
+    padding:10px;
+	position:relative;
+}
+
+.h1{
+	font-family:arial;
+	font-size:24px;
+	text-align:center;
+	padding:80px;
+	color:blue;
+}
+p{
+	text-align:center;
+	font-family:arial;
+	font-size:15px;
+	padding:2px 0;
+	color:black;
+	font-family: 'Edu SA Beginner', cursive;
+}
+.icon{
+	color:orange;
+	width:40px;
+	height:40px;
+	border:1px solid gray;
+	border-radius:24px;
+	justify-content:center;
+	align-items:center;
+    display:flex;
+	position:relative;
+	top:-25%;
+	background-color:white;
+    left:45%;
+	
+}
+#ts{
+	padding:90px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+	
+	
+	
+	
